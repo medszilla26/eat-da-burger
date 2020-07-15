@@ -1,0 +1,16 @@
+body {
+  background-color: antiquewhite;
+}
+
+li {
+  padding: 5px;
+  margin: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}

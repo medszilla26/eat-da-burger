@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name) VALUES ('Loaded Cheese & Bacon');
-INSERT INTO burgers (burger_name) VALUES ('Avocado Bacon Supreme');
-INSERT INTO burgers (burger_name, devoured) VALUES ('Krabby Patty', true);
+INSERT INTO burgers (burgername) VALUES ('Loaded Cheese & Bacon');
+INSERT INTO burgers (burgername) VALUES ('Avocado Bacon Supreme');
+INSERT INTO burgers (burgername, devoured) VALUES ('Krabby Patty', true);
