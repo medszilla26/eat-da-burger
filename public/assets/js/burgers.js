@@ -25,7 +25,6 @@ $(function () {
       devoured: false,
     };
 
-    // Send the POST request.
     $.ajax("/api/burgers", {
       type: "POST",
       data: newBurger,
