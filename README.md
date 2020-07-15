@@ -18,7 +18,7 @@ A restaurant app that lets the user input the names of burgers they'd like to ea
 
 ## Installation
 
-No installation neccessary just head to this heroku link to start using app.
+No installation neccessary just head to https://fierce-eyrie-21522.herokuapp.com/ to start using app.
 
 ## Usage
 
