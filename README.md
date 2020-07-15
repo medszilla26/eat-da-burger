@@ -1,10 +1,14 @@
 # Eat-Da-Burger!
 
 ## Live Site
+https://fierce-eyrie-21522.herokuapp.com/
 
+## Git Repo
 https://github.com/medszilla26/eat-da-burger
 
 ## Description
+
+![](public/assets/img/burger-app.png)
 
 A restaurant app that lets the user input the names of burgers they'd like to eat. It logs burgers by utilizing MYSQL, Node, Express, Handlebars and ORM.
 
